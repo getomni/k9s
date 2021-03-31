@@ -1,17 +1,19 @@
-### [X](https://website-link.com)
+### [k9s cli](https://k9scli.io/)
 
 #### Install using Git
 
 If you are a git user, you can install the theme by cloning the repo:
 
-    $ git clone https://github.com/getomni/template.git
+    $ git clone https://github.com/getomni/k9s.git
+##### Activating theme 
 
-#### Install manually
+1. Copy the skin.yml file and paste it in the ~ / .k9s directory
+2. Restart k9s
 
-Download using the [GitHub .zip download](https://github.com/getomni/template/archive/main.zip) option and unzip them.
+#### Install using curl
+  ```bash
+  $ curl https://raw.githubusercontent.com/getomni/k9s/main/skin.yml > ~/.k9s/skin.yml
+  ```
+##### Activating theme 
 
-#### Activating theme
-
-1. Step 1
-2. Step 2
-3. Step 3
+1. Restart k9s
