@@ -36,7 +36,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 | [![Gabriel Prando](https://github.com/gprando.png?size=100)](https://github.com/gprando) |
 | ------------------------------------------------------------------------------------------------ |
-| [Gabriel Prando](https://github.com/gprando)                                                   |
+| [Gabriel Prando](https://github.com/prandogabriel)                                                   |
 
 ## License
 
